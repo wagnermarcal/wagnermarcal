@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/wagner-mar%C3%A7al-16b23215b/" target="_blank"> 
-    <img align="center" alt="https://www.linkedin.com/in/wagner-mar%C3%A7al-16b23215b/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white"/>
+    <img align="center" alt="https://www.linkedin.com/in/wagner-mar%C3%A7al-16b23215b/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
